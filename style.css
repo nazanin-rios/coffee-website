@@ -85,7 +85,7 @@ header > nav > i:hover {
 .desc-home-page > h1 {
   color: #ab8e64;
   font-size: 35px;
-  font-family: 'Archivo Black', sans-serif;
+  font-family: "Archivo Black", sans-serif;
 }
 .desc-home-page > p {
   color: #fff;
@@ -183,14 +183,14 @@ header > nav > i:hover {
   overflow: hidden;
 }
 .circle1 {
-  width: 750px;
-  height: 900px;
-  background-color: #ebe2d0;
-  filter: blur(50px);
+  width: 400px;
+  height: 1000px;
+  background-color: #cec3af;
+  filter: blur(200px);
   border-radius: 50%;
   z-index: -1;
   position: absolute;
-  left: -300px;
+  left: 0px;
   bottom: -450px;
   display: none;
 }
@@ -211,7 +211,6 @@ header > nav > i:hover {
   .desc-about-us {
     width: 500px;
   }
-
   .circle1 {
     display: block;
   }
@@ -283,14 +282,14 @@ header > nav > i:hover {
   background-color: #ad947c;
 }
 .circle2 {
-  width: 600px;
+  width: 300px;
   height: 600px;
-  background-color: #ebe2d0;
-  filter: blur(50px);
+  background-color: #d4c19c;
+  filter: blur(200px);
   border-radius: 50%;
   z-index: -1;
   position: absolute;
-  right: -300px;
+  right: 0px;
   bottom: -400px;
   display: none;
 }
